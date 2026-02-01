@@ -7,9 +7,9 @@
 const char* ssid = "MECATRONICA_3ABC";
 const char* password = "MEC2025@.";
 
-const char* thinger_user = "StalynGaona";
+const char* thinger_user = "KevinDurazno";
 const char* thinger_device = "Temp";
-const char* thinger_pass = "20260026"; // Password/Token del dispositivo
+const char* thinger_pass = "123456"; // Password/Token del dispositivo
 const char* mqtt_server = "backend.thinger.io";
 
 // --- CONFIGURACIÓN DHT11 ---
