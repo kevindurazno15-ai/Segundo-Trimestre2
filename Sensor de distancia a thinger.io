@@ -2,13 +2,13 @@
 #include <ThingerESP32.h>
 
 // --- Credenciales Thinger.io (Cámbialas por las tuyas) ---
-#define USERNAME "TU_USUARIO"
-#define DEVICE_ID "TU_ID_DISPOSITIVO"
-#define DEVICE_CREDENTIAL "TU_CREDENCIAL_DISPOSITIVO"
+#define USERNAME "KevinDurazno"
+#define DEVICE_ID "DISTANCIA"
+#define DEVICE_CREDENTIAL "123456"
 
 // --- Credenciales WiFi ---
-#define SSID "NOMBRE_DE_TU_WIFI"
-#define SSID_PASSWORD "CONTRASEÑA_DE_TU_WIFI"
+#define SSID "MECATRONICA_3ABC"
+#define SSID_PASSWORD "MEC2025@."
 
 // Definición de pines para el sensor ultrasónico
 const int TRIG_PIN = 5;
